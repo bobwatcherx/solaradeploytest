@@ -1,0 +1,5 @@
+pydantic[dotenv]
+solara
+flask_sock
+fastapi
+python-dotenv
